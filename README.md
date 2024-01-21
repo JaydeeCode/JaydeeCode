@@ -16,8 +16,11 @@ Continuously exploring new technologies to expand my skill set. Currently focuse
 
 ## 🤝 Let's Connect
 
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/jiro-delfino-1993991b0/)">
+  <a href="(https://www.linkedin.com/in/jiro-delfino-1993991b0/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="(https://www.facebook.com/JiroDelfino24/)">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   
 Feel free to explore my repositories and reach out for collaborations or just to say hi! 😊
