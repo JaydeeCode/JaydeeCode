@@ -14,6 +14,6 @@ Continuously exploring new technologies to expand my skill set. Currently focuse
 
 ## 🤝 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)]([your-linkedin-profile-url](https://www.linkedin.com/in/jiro-delfino-1993991b0/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/jiro-delfino-1993991b0/)
 
 Feel free to explore my repositories and reach out for collaborations or just to say hi! 😊
