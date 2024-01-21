@@ -13,12 +13,8 @@ I'm a passionate Front-End Developer with a love for creating awesome and user-f
 Continuously exploring new technologies to expand my skill set. Currently focused on Front-End Development and to become a Full-Stack Developer in the future.
 
 ## 🤝 Let's Connect
-
-<p align="center">
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/jiro-delfino-1993991b0/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiro-delfino-1993991b0/)
-
+  
 Feel free to explore my repositories and reach out for collaborations or just to say hi! 😊
