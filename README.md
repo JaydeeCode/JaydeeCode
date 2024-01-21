@@ -5,10 +5,9 @@
 I'm a passionate Front-End Developer with a love for creating awesome and user-friendly websites. My expertise lies in HTML, CSS, and JavaScript. I enjoy turning creative ideas into interactive and visually appealing experiences.
 
 ## 🚀 Skills
-
-- HTML, CSS, JavaScript
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+</p>
 ## 🌱 Learning
 
 Continuously exploring new technologies to expand my skill set. Currently focused on Front-End Development and to become a Full-Stack Developer in the future.
