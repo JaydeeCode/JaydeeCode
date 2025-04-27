@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Front-End Developer with a love for creating awesome and user-friendly websites. My expertise lies in HTML, CSS, and JavaScript. I enjoy turning creative ideas into interactive and visually appealing experiences.
+Frontend Developer experienced in building optimized and user-friendly interfaces through hands-on academic and personal projects. Passionate about design aesthetics and effective utilization of technical skills, such as my capstone project’s interactive disaster mapping system via SVG (offers tooltips and clickable barangays) and Google Charts integration for data visualization (real-time). I prioritize maintainability and clean code by considering factors (readability, modularity, refactoring, etc.) and tools like React (component-based architecture) and TypeScript (static typing). Advocate of responsive layouts by practicing factors (fluid grids, media queries, CSS Grid/Flexbox, etc.) and using tools such as Tailwind CSS (utility-first framework) and Shadcn UI (component library). Experienced in backend integration (Firebase, PHP/MySQL). Seeking an opportunity to utilize my skills with modern frameworks (React, Next.js, Tailwind CSS) through a collaborative environment and solve real-world problems.
 
 ## 🚀 Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,figma,firebase,git,html,java,js,jquery,kali,less,md,mysql,nextjs,nodejs,npm,ps,php,py,react,sass,sublime,svg,tailwind,ts,ubuntu,vscode,vite,vercel,webflow" />
 </p>
 
 ## 🌱 Learning
